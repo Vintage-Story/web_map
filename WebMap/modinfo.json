@@ -1,0 +1,14 @@
+{
+    "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+    "type": "Code",
+    "modid": "webmap",
+    "name": "WebMap",
+    "authors": [
+        "LeansBoboDev"
+    ],
+    "description": "Server API for world map",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    }
+}
